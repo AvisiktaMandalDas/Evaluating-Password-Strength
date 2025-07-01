@@ -1,5 +1,5 @@
 # Evaluating-Password-Strength
-Task 6: Create a Strong Password and Evaluate Its Strength
+Create a Strong Password and Evaluate Its Strength
 
 # Objective
 Understand what makes a password strong and evaluate its effectiveness using online password strength checkers.
