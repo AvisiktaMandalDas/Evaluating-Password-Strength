@@ -31,8 +31,11 @@ Understand what makes a password strong and evaluate its effectiveness using onl
 
 # Common Password Attacks
   Brute Force- Tries every possible combination until it finds the correct one. 
+  
   Dictionary- Uses a precompiled list of common words/passwords to guess quickly. 
+  
   Credential Stuffing- Uses previously leaked passwords on multiple sites hoping for reuse. 
+  
   Phishing- Tricks users into entering their password on fake websites. 
 
 # Summary: Password Complexity vs. Security
