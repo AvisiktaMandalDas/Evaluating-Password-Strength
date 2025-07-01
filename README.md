@@ -11,11 +11,14 @@ Understand what makes a password strong and evaluate its effectiveness using onl
 
 # Password Samples and Evaluation
 
-| Password | Length | Complexity    | PasswordMeter Score | Time to Crack (Security.org) | Feedback 
+| Password | Length | Complexity    | PasswordMeter Score | Time to Crack (Security.org) | Feedback |
 
 | `abc123` | 6 | Lowercase, Numbers | 25% | <1 second | Too short, predictable |
+
 | `Avi@1234` | 8 | Uppercase, lowercase, numbers, symbol | 63% | 5 hours | Medium strength, can be improved |
+
 | `AviM@nd@l2025` | 13 | Uppercase, lowercase, numbers, symbols | 88% | 3 million years | Very strong password |
+
 | `Qz!rT7#pLx$9Wd2` | 15 | Mixed characters, complex structure | 100% | 1 trillion years | Excellent – meets all criteria |
 
 # Tips Learned for Strong Passwords
